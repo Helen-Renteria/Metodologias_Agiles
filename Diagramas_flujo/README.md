@@ -7,3 +7,8 @@
 3. Cálculo de área de un triángulo
 4. Calculadora de promedio de tres números
 5. Clasificación de números positivos, negativos y ceros
+
+---
+### En el documento** DG_08**
+*Encontramos diferentes ejercicios para reforzar el tema sobre diagramas de flujo, estos estan un poco mas elaborados.*
+
